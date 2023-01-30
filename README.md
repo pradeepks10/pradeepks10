@@ -2,7 +2,7 @@
 
 <h1 align="center">Hii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep Kumar Singh </h1>
 <h3 align="center">junior at NIT Patna 👩‍🎓 || Aspiring SDE🖋 || Learner</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepks10" alt="pradeepks10" /> </p>
+<p align="left"> <img border-radius= "50%"  src="https://komarev.com/ghpvc/?username=pradeepks10" alt="pradeepks10" /> </p>
 
 
  ## 🙋‍♂️ About Me
