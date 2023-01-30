@@ -20,7 +20,7 @@
     </a>
 </p>
 
-<a href="https://github.com/pradeepks10/github-readme-activity-graph"><img alt="Pradeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pradeepks10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 ## Connect with me  
 <div align="center">
@@ -38,6 +38,3 @@
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
-
